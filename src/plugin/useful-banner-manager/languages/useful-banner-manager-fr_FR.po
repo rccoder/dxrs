@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Useful Banner Manager\n"
+"POT-Creation-Date: 2013-05-03 09:38-0500\n"
+"PO-Revision-Date: 2013-11-05 16:17+0400\n"
+"Last-Translator: Therese Lachance <comact@ntl.sympatico.ca>\n"
+"Language-Team: Therese Lachance <comact@ntl.sympatico.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: useful-banner-manager-banners.php:8 useful-banner-manager.php:102
+#: useful-banner-manager.php:106 useful-banner-manager.php:319
+#: useful-banner-manager.php:488
+msgid "Banners"
+msgstr "Bannières"
+
+#: useful-banner-manager-banners.php:149
+msgid "The banner is edited."
+msgstr "La bannière est modifiée."
+
+#: useful-banner-manager-banners.php:152 useful-banner-manager-banners.php:409
+msgid "The following fields are wrong:"
+msgstr "Les champs suivants sont incorrects:"
+
+#: useful-banner-manager-banners.php:152 useful-banner-manager-banners.php:409
+msgid "The following field is wrong:"
+msgstr "Le champ suivant est incorrect:"
+
+#: useful-banner-manager-banners.php:167
+msgid "The banner ID is wrong."
+msgstr "Le numéro d'identification de la bannière est incorrect."
+
+#: useful-banner-manager-banners.php:173
+#, php-format
+msgid "Edit the banner \"%s\""
+msgstr "Modifier la bannière \"%s\""
+
+#: useful-banner-manager-banners.php:176 useful-banner-manager-banners.php:436
+msgid "Banner File"
+msgstr "Fichier de bannière"
+
+#: useful-banner-manager-banners.php:198 useful-banner-manager-banners.php:438
+msgid "The banner type can be jpg, jpeg, gif, png or swf."
+msgstr "Le format d'image peut être jpg, jpeg, gif, png ou swf."
+
+#: useful-banner-manager-banners.php:202 useful-banner-manager-banners.php:442
+msgid "Banner Title"
+msgstr "Titre de la bannière"
+
+#: useful-banner-manager-banners.php:204 useful-banner-manager-banners.php:438
+#: useful-banner-manager-banners.php:444
+msgid "(required)"
+msgstr "(requis)"
+
+#: useful-banner-manager-banners.php:208 useful-banner-manager-banners.php:448
+msgid "Image Alt"
+msgstr "Alt de l'image"
+
+#: useful-banner-manager-banners.php:210 useful-banner-manager-banners.php:216
+#: useful-banner-manager-banners.php:227 useful-banner-manager-banners.php:236
+#: useful-banner-manager-banners.php:450 useful-banner-manager-banners.php:456
+#: useful-banner-manager-banners.php:467 useful-banner-manager-banners.php:476
+msgid "Not for swf files."
+msgstr "Pas pour les fichiers swf."
+
+#: useful-banner-manager-banners.php:214 useful-banner-manager-banners.php:454
+msgid "Banner Link"
+msgstr "Lien de la bannière"
+
+#: useful-banner-manager-banners.php:220 useful-banner-manager-banners.php:460
+msgid "Link Target"
+msgstr "Fenêtre cible du lien"
+
+#: useful-banner-manager-banners.php:231 useful-banner-manager-banners.php:471
+msgid "Link Rel"
+msgstr ""
+
+#: useful-banner-manager-banners.php:240 useful-banner-manager-banners.php:480
+msgid "Banner Sizes"
+msgstr "Grosseurs de bannière"
+
+#: useful-banner-manager-banners.php:242 useful-banner-manager-banners.php:482
+msgid "Auto:"
+msgstr "Auto:"
+
+#: useful-banner-manager-banners.php:242 useful-banner-manager-banners.php:482
+msgid "Check this to set the original sizes of the banner, not for swf files."
+msgstr ""
+"Sélectionner cette case pour fixer les grosseurs initiales de la bannière, "
+"non pour les fichiers swf."
+
+#: useful-banner-manager-banners.php:245 useful-banner-manager-banners.php:485
+msgid "Width:"
+msgstr "Largeur:"
+
+#: useful-banner-manager-banners.php:246 useful-banner-manager-banners.php:250
+#: useful-banner-manager-banners.php:486 useful-banner-manager-banners.php:490
+msgid "px"
+msgstr "px"
+
+#: useful-banner-manager-banners.php:246 useful-banner-manager-banners.php:250
+#: useful-banner-manager-banners.php:486 useful-banner-manager-banners.php:490
+msgid "(required if the banner is swf file)"
+msgstr "(requis si la bannière est en format swf)"
+
+#: useful-banner-manager-banners.php:249 useful-banner-manager-banners.php:489
+msgid "Height:"
+msgstr "Hauteur:"
+
+#: useful-banner-manager-banners.php:256 useful-banner-manager-banners.php:496
+#: useful-banner-manager-banners.php:544 useful-banner-manager-banners.php:560
+msgid "Active Until"
+msgstr "Active jusqu'à"
+
+#: useful-banner-manager-banners.php:258 useful-banner-manager-banners.php:498
+msgid "Date format is YYYY-MM-DD. Leave empty if there is no date."
+msgstr ""
+"Le format de date est YYYY-MM-DD. Laisser libre s'il n'y a pas de date."
+
+#: useful-banner-manager-banners.php:262 useful-banner-manager-banners.php:502
+msgid "Banner Order"
+msgstr "Ordre des bannières"
+
+#: useful-banner-manager-banners.php:264 useful-banner-manager-banners.php:504
+msgid ""
+"Set the number depends on which the banner will be shown on more top places."
+msgstr ""
+
+#: useful-banner-manager-banners.php:268 useful-banner-manager-banners.php:508
+#: useful-banner-manager-banners.php:546 useful-banner-manager-banners.php:562
+msgid "Is Visible"
+msgstr "Est visible"
+
+#: useful-banner-manager-banners.php:270 useful-banner-manager-banners.php:510
+msgid "Yes:"
+msgstr "Oui:"
+
+#: useful-banner-manager-banners.php:270 useful-banner-manager-banners.php:510
+msgid "No:"
+msgstr "Non:"
+
+#: useful-banner-manager-banners.php:278
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: useful-banner-manager-banners.php:278
+msgid "Cancel"
+msgstr "Annuler"
+
+#: useful-banner-manager-banners.php:406
+msgid "New banner is added."
+msgstr "Nouvelle bannière ajoutée."
+
+#: useful-banner-manager-banners.php:425
+msgid "The banner is deleted."
+msgstr "La bannière a été supprimée."
+
+#: useful-banner-manager-banners.php:433 useful-banner-manager-banners.php:518
+msgid "Add banner"
+msgstr "Ajouter une bannière"
+
+#: useful-banner-manager-banners.php:534
+msgid "Manage banners"
+msgstr "Gérer les bannières"
+
+#: useful-banner-manager-banners.php:538 useful-banner-manager-banners.php:554
+msgid "ID"
+msgstr "ID"
+
+#: useful-banner-manager-banners.php:539 useful-banner-manager-banners.php:555
+msgid "Type"
+msgstr "Type"
+
+#: useful-banner-manager-banners.php:540 useful-banner-manager-banners.php:556
+msgid "Title"
+msgstr "Titre"
+
+#: useful-banner-manager-banners.php:541 useful-banner-manager-banners.php:557
+msgid "Link"
+msgstr "Lien"
+
+#: useful-banner-manager-banners.php:542 useful-banner-manager-banners.php:558
+msgid "Rel"
+msgstr ""
+
+#: useful-banner-manager-banners.php:543 useful-banner-manager-banners.php:559
+msgid "Added Date"
+msgstr "Date ajoutée"
+
+#: useful-banner-manager-banners.php:545 useful-banner-manager-banners.php:561
+msgid "Order"
+msgstr "Ordre"
+
+#: useful-banner-manager-banners.php:547 useful-banner-manager-banners.php:563
+msgid "Added By"
+msgstr "Ajouté par"
+
+#: useful-banner-manager-banners.php:579
+msgid "No date"
+msgstr "Aucune date"
+
+#: useful-banner-manager-banners.php:586
+msgid "Edit"
+msgstr "Modifier"
+
+#: useful-banner-manager-banners.php:595
+msgid "Delete"
+msgstr "Supprimer"
+
+#: useful-banner-manager-banners.php:595
+#, php-format
+msgid "Are you sure you want to delete the banner &quot;%s&quot;?"
+msgstr "Êtes-vous certain de vouloir supprimer la bannière r &quot;%s&quot;?"
+
+#: useful-banner-manager.php:102
+msgid "Banner Manager"
+msgstr "Gestion des bannières"
+
+#: useful-banner-manager.php:248
+msgid "UBM banners"
+msgstr "Bannières UBM"
+
+#: useful-banner-manager.php:313 useful-banner-manager.php:482
+msgid "There is no visible banner."
+msgstr "Il n'y a aucune bannière visible."
+
+#: useful-banner-manager.php:313 useful-banner-manager.php:482
+msgid "Add Banners"
+msgstr "Ajouter des bannières"
+
+#: useful-banner-manager.php:317 useful-banner-manager.php:486
+msgid "Title:"
+msgstr "Titre:"
+
+#: useful-banner-manager.php:328
+msgid "Number of banners to show:"
+msgstr "Nombre de bannières à afficher:"
+
+#: useful-banner-manager.php:338
+msgid "UBM banners rotation"
+msgstr "Rotation des bannières UBM"
+
+#: useful-banner-manager.php:498
+msgid "Interval:"
+msgstr "Interval:"
+
+#: useful-banner-manager.php:498
+msgid "seconds"
+msgstr "secondes"
+
+#: useful-banner-manager.php:499
+msgid "Width of rotating banners:"
+msgstr "Largeur des bannières en rotations:"
+
+#: useful-banner-manager.php:500
+msgid "Height of rotating banners:"
+msgstr "Hauteur des bannières en rotations:"
+
+#: useful-banner-manager.php:501
+msgid "Order by rand:"
+msgstr ""
